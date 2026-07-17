@@ -27,6 +27,7 @@ Hobby wise, I am familiar with:
   <img alt="discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   <img alt="notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   <img alt="aseprite" src="https://img.shields.io/badge/-Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white" />
+  <img alt="ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
   <img alt="obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
   <img alt="obs" src="https://img.shields.io/badge/-OBS Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white" />
 </p>
